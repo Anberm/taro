@@ -151,7 +151,7 @@ export const enum CONFIG_TYPES {
   JD = '.json'
 }
 
-export type IMINI_APP_FILE_TYPE = {
+export type   IMINI_APP_FILE_TYPE = {
   TEMPL: TEMPLATE_TYPES,
   STYLE: STYLE_TYPES,
   SCRIPT: SCRIPT_TYPES,
